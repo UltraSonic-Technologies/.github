@@ -1,12 +1,13 @@
-## Hi there 👋
+[UltraSonic Technologies Logo](./ultrastudio_technologies_logo.png)
+UltraSonic Technologies (old RStar Technologies) is a enterprise for projects for example, GUI, library, framework, software etc.
 
-<!--
+## The license
+Before we was using Apache 2.0 and now is MIT License.
 
-**Here are some ideas to get you started:**
+### Which project will be the most powerful?
+The project is the Ultra Studio IDE, which will release very soon between late 2026-2027.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+#### Please Contribute to us!
+"To the enterprise grow up, we need contributors, so we need to work more in Ultra Studio IDE to be complete than in others projects! We need to team up!" - Ryan de Freitas Bordez, Owner of UltraSonic Technologies
+
+
