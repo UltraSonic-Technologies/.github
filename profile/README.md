@@ -1,4 +1,4 @@
-[UltraSonic Technologies Logo](./ultrastudio_technologies_logo.png)
+![UltraSonic Technologies Logo](./ultrastudio_technologies_logo.png)
 UltraSonic Technologies (old RStar Technologies) is a enterprise for projects for example, GUI, library, framework, software etc.
 
 ## The license
